@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>down.jpg</file>
+        <file>left.jpg</file>
+        <file>pacman copy.jpg</file>
+        <file>right.jpg</file>
+        <file>up.jpg</file>
+        <file>dots1.jpg</file>
+        <file>dots.jpg</file>
+        <file>Red ghost.jpg</file>
+        <file>aqua ghost.jpg</file>
+        <file>Blue ghost.jpg</file>
+        <file>grey ghost.jpg</file>
+        <file>menu.png</file>
+    </qresource>
+</RCC>
